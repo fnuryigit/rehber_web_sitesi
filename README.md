@@ -1,10 +1,4 @@
 
-<<<<<<< HEAD
-
-## Ekran Görüntüsü
-
-![Vintage Web Sitesi](index.png)
-=======
 ## Ekran Görüntüsü
 
 ![Vintage Web Sitesi](index.png)
