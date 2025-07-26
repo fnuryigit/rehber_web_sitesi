@@ -1,8 +1,6 @@
-Rehber Web Sitesi
 
-Bu proje, Kodluyoruz Frontend eğitimi kapsamında hazırlanmıştır.  
-HTML5 yapıları kullanılarak çok sayfalı bir rehber sitesi oluşturulmuştur.
 
+Bu projenin içeriğinde HTML5 yapıları kullanılarak çok sayfalı bir rehber sitesi oluşturulmuştur.
 Sayfalar:
 
 - [Ana Sayfa](https://fnuryigit.github.io/rehber_web_sitesi/index.html)
