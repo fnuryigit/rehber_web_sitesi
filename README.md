@@ -16,3 +16,8 @@ Sayfalar:
 - Listeler
 - Görsel
 - Form alanı
+
+
+## Ekran Görüntüsü
+
+![Vintage Web Sitesi](index.png)
