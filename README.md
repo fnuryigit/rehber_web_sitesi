@@ -15,8 +15,7 @@ Sayfalar:
 - Form alanı
 
 ## Ekran Görüntüsü
-
-![Vintage Web Sitesi](index.png)
+![Vintage Web Sitesi](./index.png)
 
 
 
